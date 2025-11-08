@@ -75,3 +75,35 @@ body {
 	margin-right: 10px;
 }
 
+@media (max-width: 420px) {
+	.card {
+		width: 327px;
+		height: 501px;
+	}
+
+	.logo {
+		width: 279px;
+		height: 200px;
+	}
+
+	.btn {
+		width: 73px;
+		height: 26px;
+		font-size: 12px;
+	}
+
+	.date {
+		font-size: 12px;
+		margin-bottom: 18px;
+	}
+
+	.title {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+
+	.info {
+		font-size: 14px;
+		width: 279px;
+	}
+}
